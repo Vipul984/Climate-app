@@ -1,4 +1,4 @@
-# Climate-app
+# Weather-app
 
 #An App to check the current weather condition based on your current location. It also allows user to check the weather of a city by name
 
